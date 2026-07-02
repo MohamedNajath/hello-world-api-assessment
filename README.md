@@ -1,3 +1,6 @@
+## Assessment Submission
+This branch contains the completed implementation for the take-home assessment.
+
 # Hello World API
 
 A simple Spring Boot HTTP API with a single endpoint, `GET /hello-world`, built as part
